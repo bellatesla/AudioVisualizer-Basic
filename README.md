@@ -1,6 +1,10 @@
 # AudioVisualizer-Basic
 Audio Visualizer for Unity using AudioListener.GetSpectrumData
 
+![audvis1](https://cloud.githubusercontent.com/assets/11200805/15373437/77cb6c10-1cfa-11e6-841e-cb77b3a79169.jpg)
+
+![audvis2](https://cloud.githubusercontent.com/assets/11200805/15373439/7bc1116c-1cfa-11e6-9222-23b5962cd86a.jpg)
+
 <!--![Snap](http://38.media.tumblr.com/fe9bb0573d05fcbe29903c046f8e86db/tumblr_nqi2phvAfY1qio469o1_400.gif)
 
 ![Generative](http://38.media.tumblr.com/57afc7693bdbd699847806d8c1e7bbc7/tumblr_nqiazfQhrP1qio469o1_400.gif)
