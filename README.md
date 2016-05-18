@@ -7,7 +7,8 @@ Audio Visualizer for Unity using AudioListener.GetSpectrumData
 
 ![Beats](http://38.media.tumblr.com/abfd26888e35f383ddbfc1ad0c0cc445/tumblr_nqib0cOeDE1qio469o1_400.gif) -->
 
-This audio visualizer project was created for a teaching aid too simply show audio data.
+This audio visualizer project was created for a teaching aid for simply showing and playing audio data. I would
+hope you will build upon this and make something awesome.
 
 License
 -------
